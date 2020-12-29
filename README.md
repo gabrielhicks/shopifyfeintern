@@ -1,6 +1,6 @@
 ### UX Developer Intern & Web Developer Intern Challenge - Summer 2021
 
-# Deploted: https://shopifyfeintern.vercel.app/
+# Deployed: https://shopifyfeintern.vercel.app/
 
 ## The Shoppies: Movie awards for entrepreneurs
 
